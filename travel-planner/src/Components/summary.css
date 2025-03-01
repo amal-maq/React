@@ -1,0 +1,15 @@
+#summary {
+    margin-top: 4vh;
+}
+#sumcont{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 20vw;
+}
+#sumcont h3{
+    color: green;
+}
+#sumcont p{
+    font-weight: 600;
+}
