@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Headphones",
+      "description": "Experience superior sound quality with these premium headphones.",
+      "price": 2000,
+      "image": "headphones.jpg"
+    },
+    {
+      "name": "Smartphone",
+      "description": "Latest model smartphone with amazing features.",
+      "price": 12000,
+      "image": "phone.jpg"
+    },
+    {
+      "name": "Laptop",
+      "description": "Powerful laptop for gaming and professional work.",
+      "price": 45000,
+      "image": "laptop.jpg"
+    },
+    {
+      "name": "Head-set",
+      "description": "Experience superior sound quality with these premium headphones.",
+      "price": 5000,
+      "image": "headphones.jpg"
+    }
+  ]
+  
